@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ilegra0364/CLionProjects/Arvore-Binaria/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
