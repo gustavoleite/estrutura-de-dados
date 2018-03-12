@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/ilegra0364/CLionProjects/Arvore-Binaria/main.c" "/Users/ilegra0364/CLionProjects/Arvore-Binaria/cmake-build-debug/CMakeFiles/untitled1.dir/main.c.o"
+  "C:/Users/gusta/Desktop/faculdade/estrutura-de-dados/Arvore-Binaria/main.c" "C:/Users/gusta/Desktop/faculdade/estrutura-de-dados/Arvore-Binaria/cmake-build-debug/CMakeFiles/untitled1.dir/main.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "AppleClang")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

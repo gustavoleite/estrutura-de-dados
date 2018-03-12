@@ -1,3 +1,3 @@
-/Users/ilegra0364/CLionProjects/Arvore-Binaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ilegra0364/CLionProjects/Arvore-Binaria/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ilegra0364/CLionProjects/Arvore-Binaria/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/gusta/Desktop/faculdade/estrutura-de-dados/Arvore-Binaria/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/gusta/Desktop/faculdade/estrutura-de-dados/Arvore-Binaria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gusta/Desktop/faculdade/estrutura-de-dados/Arvore-Binaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir

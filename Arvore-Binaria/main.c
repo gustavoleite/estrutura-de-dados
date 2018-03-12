@@ -69,7 +69,6 @@ bool valorDuplicado(int valor, const struct NO *atual) { return valor == atual->
 
 bool arvoreIsEmpty(ArvBin const *raiz) { return *raiz == NULL; }
 
-
 int main(int argc, char** argv) {
     int v;
     ArvBin* raiz = cria_ArvBin();
@@ -83,4 +82,3 @@ int main(int argc, char** argv) {
 
     return (EXIT_SUCCESS);
 }
-
